@@ -682,6 +682,18 @@ p {
     line-height: 20px;
 }
 
+.citation {
+    font-size: 20px;
+    font-style: italic;
+    margin: 0 181px;
+    line-height: 25px;
+
+}
+
+.nom {
+    margin-top: 10px;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -777,16 +789,16 @@ h4 {
 }
 
 .tc-white {
-    color: #ffccbc!important;
+    color: #fbe9e7!important;
 }
 
 .btn-atomic-tangerine {
-    background: #ff7043;
+    background: coral;
     color: #FFFFFF !important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #ffccbc!important;
+    background: #ffab91!important;
     color: #FFFFFF!important;
 }
 
@@ -825,6 +837,13 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
+}
+
+.txt-contact {
+    margin: 20px 250px 20px 250px;
+    background-color: coral;
+    padding: 10px;
+    color: white!important;
 }
 
 @media (max-width: 1024px) {
