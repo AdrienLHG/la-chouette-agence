@@ -790,7 +790,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #e64a19;
 }
 
 .tc-white {
@@ -798,8 +798,8 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: coral;
-    color: #FFFFFF !important;
+    background: #e64a19;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -846,7 +846,7 @@ h4 {
 
 .txt-contact {
     margin: 20px 250px 20px 250px;
-    background-color: coral;
+    background-color: #e64a19;
     padding: 10px;
     color: white!important;
 }
