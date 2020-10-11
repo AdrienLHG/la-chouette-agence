@@ -755,7 +755,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #FFF!important;
 }
 
 .portfolio-thumb {
@@ -790,7 +790,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #e64a19;
+    background-color: #bd3e21;
 }
 
 .tc-white {
@@ -798,8 +798,8 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #e64a19;
-    color: #FFFFFF!important;
+    background: #bd3e21;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -846,9 +846,9 @@ h4 {
 
 .txt-contact {
     margin: 20px 250px 20px 250px;
-    background-color: #e64a19;
+    background-color: #bd3e21;
     padding: 10px;
-    color: white!important;
+    color: #FFF!important;
 }
 
 .img-responsive {
