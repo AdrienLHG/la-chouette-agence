@@ -852,13 +852,13 @@ h4 {
 }
 
 .image-resize-mode {
-    width: 150px;
-    height: 150px;
+    width: 100%;
+    height: auto;
 }
 
 .img-responsive {
-    width: 270px;
-    height: 270px;
+    width: 100%;
+    height: auto;
 }
 
 @media (max-width: 1024px) {
